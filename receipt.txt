@@ -1,0 +1,15 @@
+      Java Superstore
+Sun Apr 09 20:42:44 PDT 2023
+
+BREAD-SLICED      2.50
+MILK_(2L)         4.79
+PEPSI_(2L)        2.20
+IVORY_SOAP        4.99
+LARGE_EGGS        2.89
+--------------------
+Sub-total        17.37
+Tax               2.43
+Total            19.80
+
+Most expensive
+IVORY_SOAP        4.99

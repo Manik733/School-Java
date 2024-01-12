@@ -1,0 +1,19 @@
+Is Palindrome:
+Kayak
+RADAR
+Never odd or even 
+Sit on a potato pan, Otis.
+100010001
+Red Rum Murder.
+ABBA
+Sneven Snevens
+
+Is Not Palindrome:
+Balloon
+Thrust
+Spirit
+10010001
+Odd, no dodo
+Dap Lillipad
+Madam, I’m Adam.
+
